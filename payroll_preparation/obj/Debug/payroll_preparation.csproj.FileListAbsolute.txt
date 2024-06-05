@@ -1,0 +1,11 @@
+D:\Проекты C#\payroll_preparation\bin\Debug\payroll_preparation.exe.config
+D:\Проекты C#\payroll_preparation\bin\Debug\payroll_preparation.exe
+D:\Проекты C#\payroll_preparation\bin\Debug\payroll_preparation.pdb
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.csproj.AssemblyReference.cache
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.Calculation.resources
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.Properties.Resources.resources
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.csproj.GenerateResource.cache
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.csproj.CoreCompileInputs.cache
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.exe
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.pdb
+D:\Проекты C#\payroll_preparation\obj\Debug\payroll_preparation.StartForm.resources
