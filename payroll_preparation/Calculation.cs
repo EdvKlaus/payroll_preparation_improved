@@ -167,7 +167,7 @@ namespace payroll_preparation
                         weekBonus = (number_of_orders_per_weekCount - 200) * 3;
                     }
 
-                    if (number_of_orders_per_monthCount > 100)
+                    if (number_of_orders_per_monthCount > 1000)
                     {
                         monthBonus = 1000;
                     }
